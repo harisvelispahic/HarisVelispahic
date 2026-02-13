@@ -51,12 +51,12 @@ I'm a third-year student at the Faculty of Information Technologies in Mostar. T
 
 
 
-#
+<!-- # -->
 
-### 📊 Stats
+<!--### 📊 Stats -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harisvelispahic&hide=html&layout=compact&theme=algolia)
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisvelispahic&show_icons=true&theme=algolia)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harisvelispahic&hide=html&layout=compact&theme=algolia) -->
+<!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisvelispahic&show_icons=true&theme=algolia) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
